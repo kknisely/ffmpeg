@@ -1,4 +1,4 @@
 ffmpeg
 ======
 
-my compiled version of ffmpeg for RPI
+Do Not RUN - corrupt version cannot compile on newest kernel!
